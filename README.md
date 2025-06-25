@@ -8,9 +8,7 @@
 
 
 ## Datasets
-The `datasets` folder contains all experimental data used in FC-DTI.
-While the datasets 'C.celegans' and 'Human' are attached directly, the dataset BioSNAP can be downloaded from
-[BioSNAP](https://github.com/kexinhuang12345/MolTrans). 
+The `datasets` folder contains all experimental data used in CF-DTI.
 
 
 ## Run `CF-DTI on Our Data to Reproduce Results
