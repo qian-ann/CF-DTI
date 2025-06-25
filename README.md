@@ -11,7 +11,7 @@
 The `datasets` folder contains all experimental data used in CF-DTI.
 
 
-## Run `CF-DTI on Our Data to Reproduce Results
+## Run 'CF-DTI' on Our Data to Reproduce Results
 
 To train CF-DTI, where we provide the basic configurations for all hyperparameters in `config.py`.
 
